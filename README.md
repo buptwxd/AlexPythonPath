@@ -5,7 +5,8 @@ Added some python resources
 
 2.Read python requests  https://github.com/wangshunping/read_requests
 
-
+Besides:
+There are guys recommending <Python核心编程> 
 
 # AlexPythonPath
 This is to record my learning python progress
